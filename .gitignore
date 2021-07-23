@@ -1,0 +1,7 @@
+/arr.jl
+/JuliaSysimage.dll
+/JuliaSysyimage.dll
+/justincase.jl
+/strm.jl
+/sys_plots.so
+/using StatsBase, Distributions.jl
